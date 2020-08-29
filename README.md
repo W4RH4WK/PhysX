@@ -1,3 +1,5 @@
+This fork incorporates minimal changes to make PhysX compile out-of-the-box on modern systems, suited for [Raygun](https://github.com/W4RH4WK/Raygun).
+
 # NVIDIA PhysX SDK 4.1
 
 Copyright (c) 2019 NVIDIA Corporation. All rights reserved.
